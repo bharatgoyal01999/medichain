@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "buoyant-embassy-312110",
+  "private_key_id": "c58f91ca5d8e1e46abc4d0a3ab90df7b56517832",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2RVtwFl9z+4W/\n1r69t9nd4jeut4/ZByL8HJI2GOkljY8meOnc3DB8wxKDXGHJkywPHI6mrE3R01m7\n2z9ENGKKUoJYB/HntwzBs7jtOksQxpBgB2sCO7QfRIevqqnu2N+oHzIjpEQBeCqL\nWxtVlrtzz2fY6hfReB1P2nQgO7yZ1NSo/+Cfb0zm4CgleuVjzlVTCwLT4kYGgH+Q\nLlW+7yiH8fXOKZDwJgaG+llD7ud03zn7NqBtk2kqlrbXIIFTHnoN+mMEiB/+Gm+F\nd+tblhT7K/5KpHad63bsvD1XZowyJTxMfCjjXUYXmQBpLWkhl+4cynqDfIJq9j+W\nyyABJ0sVAgMBAAECggEAJx/ZIkSzJY66ZXTfiZKywdWClU7SokfNYydw3QrY1NY/\ngYcXz/A1ujoXObo1RVMBdJbxKea3Z5BB5TiJKodCFaXjU6kU7GOW6ec9jTJjlYzB\nxdMhzZ9qKQIJTBRKmLnVvF1B4nOqo1QbccFTKzqJLzE4fc+14CEzzYW7QoYAFFbF\nUlK4/zBlpyy9nsyg/U5GkILiqmXhKXXC7lCnhqL5dJYmBMZSbIkDJrp2N2umysa7\nkEzBAaIu7rJPsbSLf9eNpHK3CIH5L0sg6f0h7MryU4XTLx1+HJ+ynWJpV5aK3tBv\nlF0qZDjSW0pfLOwbUQpPshYygNvf/m0xuPIHSJXRiwKBgQDtC9001Kyb3XB8Oi+9\nf1uRsHJOsvAlQc2M7Okrl39H6RtkwmU9p/9aZMXxeRaMZQI34SIvVNGbl7hhw+WW\noKaHTIY/m8oJTa6/vyJwCp9kiT/Sem1l3hbElq2woi57efJn5veXvNeiYz9elG7i\nPGc+5eazbE16VE8CoZe9TcXBEwKBgQDE2EmCQbtQrWI6G7a/AB0N2bEYRFlh2OQc\nkthOqbm0dkONZg8diWar2N+44CX1BKTQ1uDIANBshFnmB+EdewuwVUKc5Q/W6yhz\nT1F9Iy4LmWZ52Otr4fbw3OdBjzJJyCllXYGa7MH92u9NUHVB7m6y5r9xnRiBU7aR\nM+pcrNPwNwKBgB+BAicxVLdqWLbJ7OpccMkOEEMRWQU6l5zxJ5QZkFr4SiG8DESD\nfVaAKiaLl0mVaxQOIcL0nN727RRhOrQoKbm1m+n8RH+0CVOGjYcigkiUTR0mFEAD\nojcCZ5cgFtlmPac9dQ5/lJEKa7OgOpRqvrYHS//wluN5LP8Ghuor2eptAoGBAJP3\nwcoYfyX2L5BepNCO1UhEC8uiFU5oK5EPEWqQSvhMrhrsTRB26KblL8dZNy8nfn0+\nCVpOwl3QX4N7CM2QYQj8DkbCKVX1D0MerLLUbxhpB48wcEd4ZJhKdcviSHsN65A2\n6eX7cxfQK3KCuKIHCU+SBPbykCknNGWSEOn5QJehAoGBAMeMNzNvNqXhBbn+ru9I\nXL0E+AQXqqqTvKQu/PTMQybgzfVjQRm+DDtJCXfWA67An1UbmBKIjxKioRdLj4cO\nFXPy9RzT7vRBOoPtSdMazg5hc4SUGuuPvxP3zj4tNSXurP8A1L8EJeqR2Qwhkm1J\nCZDHbZ9WCURSK15Vzcv/XotX\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigqconnect@buoyant-embassy-312110.iam.gserviceaccount.com",
+  "client_id": "107022867727183053077",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigqconnect%40buoyant-embassy-312110.iam.gserviceaccount.com"
+}
